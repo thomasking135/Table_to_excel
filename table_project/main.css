@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(149, 149, 205);
+}
+
+th,td{
+    width: 100%;
+    border: 1px solid black;
+}
